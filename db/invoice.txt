@@ -1,0 +1,44 @@
+Invoice Details:
+
+Product Name   Selling Price          Quantity          Total Price
+
+koky		10.000000		3		30.000000
+oil		10.000000		2		20.000000
+Total Invoice Price: $50.000000
+Invoice Details:
+
+Product Name   Selling Price          Quantity          Total Price
+
+koky		10.000000		3		30.000000
+bubble		5.000000		3		15.000000
+Total Invoice Price: $45.000000
+Invoice Details:
+
+Product Name   Selling Price          Quantity          Total Price
+
+koky		10.000000		3		30.000000
+tea		10.000000		2		20.000000
+Total Invoice Price: $50.000000
+Invoice Details:
+
+Product Name   Selling Price          Quantity          Total Price
+
+oil		10.000000		1		10.000000
+tea		10.000000		3		30.000000
+Total Invoice Price: $40.000000
+Invoice Details:
+
+Product Name   Selling Price          Quantity          Total Price
+
+tea		10.000000		2		20.000000
+oil		10.000000		2		20.000000
+koky		10.000000		3		30.000000
+tea		10.000000		2		20.000000
+Total Invoice Price: $90.000000
+Invoice Details:
+
+Product Name   Selling Price          Quantity          Total Price
+
+oil		10.000000		2		20.000000
+tea		10.000000		2		20.000000
+Total Invoice Price: $40.000000

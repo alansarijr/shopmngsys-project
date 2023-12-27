@@ -1,0 +1,86 @@
+[
+    {
+        "buyingPrice": 7.5,
+        "id": "1",
+        "name": "tea",
+        "quantity": 239,
+        "sellingPrice": 10.0
+    },
+    {
+        "buyingPrice": 25.0,
+        "id": "5",
+        "name": "sugare",
+        "quantity": 219,
+        "sellingPrice": 10.0
+    },
+    {
+        "buyingPrice": 22.0,
+        "id": "2",
+        "name": "koky",
+        "quantity": -86,
+        "sellingPrice": 10.0
+    },
+    {
+        "buyingPrice": 2.0,
+        "id": "3",
+        "name": "oil",
+        "quantity": -19,
+        "sellingPrice": 10.0
+    },
+    {
+        "buyingPrice": 3.0,
+        "id": "4",
+        "name": "bubble",
+        "quantity": 6,
+        "sellingPrice": 5.0
+    },
+    {
+        "buyingPrice": 7.0,
+        "id": "7",
+        "name": "maxy",
+        "quantity": 12,
+        "sellingPrice": 10.0
+    },
+    {
+        "buyingPrice": 9.0,
+        "id": "6",
+        "name": "V juice",
+        "quantity": 20,
+        "sellingPrice": 12.0
+    },
+    {
+        "buyingPrice": 12.555500030517578,
+        "id": "joe",
+        "name": "bishoy",
+        "quantity": 225,
+        "sellingPrice": 12.5
+    },
+    {
+        "buyingPrice": 2.0,
+        "id": "8",
+        "name": "ji",
+        "quantity": 5,
+        "sellingPrice": 3.0
+    },
+    {
+        "buyingPrice": 45.0,
+        "id": "12",
+        "name": "tea 250 gm",
+        "quantity": 10,
+        "sellingPrice": 48.0
+    },
+    {
+        "buyingPrice": 11.0,
+        "id": "eng.joe",
+        "name": "joe",
+        "quantity": 1,
+        "sellingPrice": 121212121212.0
+    },
+    {
+        "buyingPrice": 0.10000000149011612,
+        "id": "eng.tarq",
+        "name": "tarq",
+        "quantity": 10,
+        "sellingPrice": 0.25
+    }
+]
